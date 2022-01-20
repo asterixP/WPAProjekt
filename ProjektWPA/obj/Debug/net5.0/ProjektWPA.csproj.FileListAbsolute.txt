@@ -1,0 +1,16 @@
+D:\BLIZZ\ProjektWPA\bin\Debug\net5.0\ProjektWPA.exe
+D:\BLIZZ\ProjektWPA\bin\Debug\net5.0\ProjektWPA.deps.json
+D:\BLIZZ\ProjektWPA\bin\Debug\net5.0\ProjektWPA.runtimeconfig.json
+D:\BLIZZ\ProjektWPA\bin\Debug\net5.0\ProjektWPA.runtimeconfig.dev.json
+D:\BLIZZ\ProjektWPA\bin\Debug\net5.0\ProjektWPA.dll
+D:\BLIZZ\ProjektWPA\bin\Debug\net5.0\ref\ProjektWPA.dll
+D:\BLIZZ\ProjektWPA\bin\Debug\net5.0\ProjektWPA.pdb
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ProjektWPA.csproj.AssemblyReference.cache
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ProjektWPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ProjektWPA.AssemblyInfoInputs.cache
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ProjektWPA.AssemblyInfo.cs
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ProjektWPA.csproj.CoreCompileInputs.cache
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ProjektWPA.dll
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ref\ProjektWPA.dll
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ProjektWPA.pdb
+D:\BLIZZ\ProjektWPA\obj\Debug\net5.0\ProjektWPA.genruntimeconfig.cache
